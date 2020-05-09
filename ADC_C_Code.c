@@ -77,7 +77,7 @@ void captureADCdata()
 		RDpin		=	0;
 		//---------------------------------------------------------------------
 			
-		// now data is there on the Port 1
+		// now data is there on the Port 1 
 		// displaying the data on port 2
 		OUTP		=	ADCP;
 }
