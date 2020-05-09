@@ -65,8 +65,8 @@ void captureADCdata()
 		//-------------------------------------
 		
 		//---------converting the data Low-To-High Pulse----
-		WRpin	=	0;
-		WRpin	=	1;
+		WRpin		=	0;
+		WRpin		=	1;
 		//---------------------------------------------------------------------
 	
 		//--------Motinoring the INTR pin	--------------------------
